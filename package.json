@@ -1,0 +1,25 @@
+{
+  "name": "tinyquote",
+  "version": "1.0.0",
+  "description": "### A python service that powers our quote system and database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandongagon/tinyQuote.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandongagon/tinyQuote/issues"
+  },
+  "homepage": "https://github.com/brandongagon/tinyQuote#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.8"
+  }
+}
