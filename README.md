@@ -4,4 +4,4 @@
 
 ### Stack: Python, FastAPI, SQLAlchemy, Sentiment Model
 
-![sample embedded image](better.png)
+![sample embedded image](./src/assets/better.png)
